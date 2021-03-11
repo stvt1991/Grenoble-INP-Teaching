@@ -1,6 +1,6 @@
 //////////////////////////////////////////////////////////////////////////////
 // TP PID control Grenoble INP-GI
-// 2020 - Aurelie Morin
+// 2020 - Aurelie Morin, Swaminath Venkateswaran
 // Sensor : SharpIR sensor GP2Y0A21YK0F on pin A0
 // Servomotor : FS5106B with signal on pin 9
 // Sensors calibration program
